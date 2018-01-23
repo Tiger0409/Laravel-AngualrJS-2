@@ -35,8 +35,8 @@ You can now access angular frontend project at `localhost:4200` and laravel back
 
 ## Credential of server(Admin Panel)
 
-Username : `webstar0409@gmail.com`
-Password : `webstar0409`
+Username : `hello@byteparity.com`
+Password : `123456`
 
 ## Further help
 
